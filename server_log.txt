@@ -1,0 +1,2320 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.8-RC4-1, (C)2005-2017 SA-MP Team
+
+[18:41:33] 
+[18:41:33] Server Plugins
+[18:41:33] --------------
+[18:41:33]  Loaded 0 plugins.
+
+[18:41:33] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[18:41:33] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[18:41:33] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[18:41:33] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[18:41:33] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[18:41:33] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[18:41:33] 
+[18:41:33] Filterscripts
+[18:41:33] ---------------
+[18:41:33]   Loading filterscript 'gl_actions.amx'...
+[18:41:33]   Loading filterscript 'gl_realtime.amx'...
+[18:41:33]   Loading filterscript 'gl_property.amx'...
+[18:41:33] 
+-----------------------------------
+[18:41:33] Grand Larceny Property Filterscript		
+[18:41:33] -----------------------------------
+
+[18:41:33]   Loading filterscript 'gl_mapicon.amx'...
+[18:41:33]   Loading filterscript 'ls_elevator.amx'...
+[18:41:33]   Loading filterscript 'attachments.amx'...
+[18:41:33]   Loading filterscript 'test_cmds.amx'...
+[18:41:33]   Loading filterscript 'skinchanger.amx'...
+[18:41:33] 
+--Admin Player Skin Changer Loaded
+
+[18:41:33]   Loading filterscript 'vspawner.amx'...
+[18:41:33] 
+--Admin Vehicle Spawner Loaded
+
+[18:41:33]   Loading filterscript 'ls_mall.amx'...
+[18:41:33]   Loading filterscript 'ls_beachside.amx'...
+[18:41:33] 
+
+[18:41:33]   |---------------------------------------------------
+[18:41:33]   |--- LS BeachSide Filterscript
+[18:41:33]   |--  Script v1.03
+[18:41:33]   |--  19th April 2015
+[18:41:33]   |---------------------------------------------------
+[18:41:33]   |--  LS BeachSide Building Elevator created
+[18:41:33]   |---------------------------------------------------
+[18:41:33]   Loading filterscript 'npc_record.amx'...
+[18:41:33]   Loading filterscript 'stunt_island.amx'...
+[18:41:33] 
+
+[18:41:33]   |---------------------------------------------------
+[18:41:33]   |--- Stunt Island Filterscript by Matite and Kye
+[18:41:33]   |--  Script v1.02
+[18:41:33]   |--  13th February 2015
+[18:41:33]   |---------------------------------------------------
+[18:41:33]   Loading filterscript 'stunt_island2.amx'...
+[18:41:33] 
+
+[18:41:33]   |---------------------------------------------------
+[18:41:33]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[18:41:33]   |--  Script v1.00
+[18:41:33]   |--  Sept 2017
+[18:41:33]   |---------------------------------------------------
+[18:41:33]   Loading filterscript 'ospawner.amx'...
+[18:41:33] 
+--Admin Vehicle Spawner Loaded
+
+[18:41:33]   Loaded 15 filterscripts.
+
+[18:41:33] Loaded 1 vehicles from: vehicles/trains.txt
+[18:41:33] Loaded 3 vehicles from: vehicles/pilots.txt
+[18:41:33] Loaded 15 vehicles from: vehicles/lv_law.txt
+[18:41:33] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[18:41:33] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[18:41:33] Loaded 38 vehicles from: vehicles/sf_law.txt
+[18:41:33] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[18:41:33] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[18:41:33] Loaded 24 vehicles from: vehicles/ls_law.txt
+[18:41:33] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[18:41:33] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[18:41:33] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[18:41:33] Loaded 71 vehicles from: vehicles/whetstone.txt
+[18:41:33] Loaded 168 vehicles from: vehicles/bone.txt
+[18:41:33] Loaded 61 vehicles from: vehicles/flint.txt
+[18:41:33] Loaded 96 vehicles from: vehicles/tierra.txt
+[18:41:33] Loaded 96 vehicles from: vehicles/red_county.txt
+[18:41:33] Total vehicles from files: 1779
+[18:41:33] Reading File: blank
+[18:41:33] Reading File: properties/houses.txt
+[18:41:33] Reading File: properties/businesses.txt
+[18:41:33] Reading File: properties/banks.txt
+[18:41:33] Reading File: properties/police.txt
+[18:41:33] 
+---------------------------------------
+[18:41:33] Running Grand Larceny - by the SA-MP team
+
+[18:41:33] ---------------------------------------
+
+[18:41:33] Number of vehicle models: 173
+[18:43:00] [connection] incoming connection: 127.0.0.1:63616 id: 0
+[18:43:01] [connection] incoming connection: 127.0.0.1:63617 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.8-RC4-1, (C)2005-2017 SA-MP Team
+
+[22:17:35] 
+[22:17:35] Server Plugins
+[22:17:35] --------------
+[22:17:35]  Loaded 0 plugins.
+
+[22:17:35] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:17:35] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:17:35] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:17:35] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:17:35] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:17:36] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:17:36] 
+[22:17:36] Filterscripts
+[22:17:36] ---------------
+[22:17:36]   Loading filterscript 'gl_actions.amx'...
+[22:17:36]   Loading filterscript 'gl_realtime.amx'...
+[22:17:36]   Loading filterscript 'gl_property.amx'...
+[22:17:36] 
+-----------------------------------
+[22:17:36] Grand Larceny Property Filterscript		
+[22:17:36] -----------------------------------
+
+[22:17:36]   Loading filterscript 'gl_mapicon.amx'...
+[22:17:36]   Loading filterscript 'ls_elevator.amx'...
+[22:17:36]   Loading filterscript 'attachments.amx'...
+[22:17:36]   Loading filterscript 'test_cmds.amx'...
+[22:17:36]   Loading filterscript 'skinchanger.amx'...
+[22:17:37] 
+--Admin Player Skin Changer Loaded
+
+[22:17:37]   Loading filterscript 'vspawner.amx'...
+[22:17:37] 
+--Admin Vehicle Spawner Loaded
+
+[22:17:37]   Loading filterscript 'ls_mall.amx'...
+[22:17:37]   Loading filterscript 'ls_beachside.amx'...
+[22:17:37] 
+
+[22:17:37]   |---------------------------------------------------
+[22:17:37]   |--- LS BeachSide Filterscript
+[22:17:37]   |--  Script v1.03
+[22:17:37]   |--  19th April 2015
+[22:17:37]   |---------------------------------------------------
+[22:17:37]   |--  LS BeachSide Building Elevator created
+[22:17:37]   |---------------------------------------------------
+[22:17:37]   Loading filterscript 'npc_record.amx'...
+[22:17:37]   Loading filterscript 'stunt_island.amx'...
+[22:17:37] 
+
+[22:17:37]   |---------------------------------------------------
+[22:17:37]   |--- Stunt Island Filterscript by Matite and Kye
+[22:17:37]   |--  Script v1.02
+[22:17:37]   |--  13th February 2015
+[22:17:37]   |---------------------------------------------------
+[22:17:37]   Loading filterscript 'stunt_island2.amx'...
+[22:17:37] 
+
+[22:17:37]   |---------------------------------------------------
+[22:17:37]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[22:17:37]   |--  Script v1.00
+[22:17:37]   |--  Sept 2017
+[22:17:37]   |---------------------------------------------------
+[22:17:37]   Loading filterscript 'ospawner.amx'...
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.8-RC4-1, (C)2005-2017 SA-MP Team
+
+[22:45:20] 
+[22:45:20] Server Plugins
+[22:45:20] --------------
+[22:45:20]  Loaded 0 plugins.
+
+[22:45:20] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:45:20] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:45:20] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:45:20] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:45:20] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:45:20] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:45:20] 
+[22:45:20] Filterscripts
+[22:45:20] ---------------
+[22:45:20]   Loading filterscript 'gl_actions.amx'...
+[22:45:20]   Loading filterscript 'gl_realtime.amx'...
+[22:45:20]   Loading filterscript 'gl_property.amx'...
+[22:45:20] 
+-----------------------------------
+[22:45:20] Grand Larceny Property Filterscript		
+[22:45:20] -----------------------------------
+
+[22:45:20]   Loading filterscript 'gl_mapicon.amx'...
+[22:45:20]   Loading filterscript 'ls_elevator.amx'...
+[22:45:20]   Loading filterscript 'attachments.amx'...
+[22:45:20]   Loading filterscript 'test_cmds.amx'...
+[22:45:20]   Loading filterscript 'skinchanger.amx'...
+[22:45:20] 
+--Admin Player Skin Changer Loaded
+
+[22:45:20]   Loading filterscript 'vspawner.amx'...
+[22:45:20] 
+--Admin Vehicle Spawner Loaded
+
+[22:45:20]   Loading filterscript 'ls_mall.amx'...
+[22:45:20]   Loading filterscript 'ls_beachside.amx'...
+[22:45:20] 
+
+[22:45:20]   |---------------------------------------------------
+[22:45:20]   |--- LS BeachSide Filterscript
+[22:45:20]   |--  Script v1.03
+[22:45:20]   |--  19th April 2015
+[22:45:20]   |---------------------------------------------------
+[22:45:20]   |--  LS BeachSide Building Elevator created
+[22:45:20]   |---------------------------------------------------
+[22:45:20]   Loading filterscript 'npc_record.amx'...
+[22:45:20]   Loading filterscript 'stunt_island.amx'...
+[22:45:20] 
+
+[22:45:20]   |---------------------------------------------------
+[22:45:20]   |--- Stunt Island Filterscript by Matite and Kye
+[22:45:20]   |--  Script v1.02
+[22:45:20]   |--  13th February 2015
+[22:45:20]   |---------------------------------------------------
+[22:45:20]   Loading filterscript 'stunt_island2.amx'...
+[22:45:20] 
+
+[22:45:20]   |---------------------------------------------------
+[22:45:20]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[22:45:20]   |--  Script v1.00
+[22:45:20]   |--  Sept 2017
+[22:45:20]   |---------------------------------------------------
+[22:45:20]   Loading filterscript 'ospawner.amx'...
+[22:45:20] 
+--Admin Vehicle Spawner Loaded
+
+[22:45:20]   Loaded 15 filterscripts.
+
+[22:45:20] Loaded 1 vehicles from: vehicles/trains.txt
+[22:45:20] Loaded 3 vehicles from: vehicles/pilots.txt
+[22:45:20] Loaded 15 vehicles from: vehicles/lv_law.txt
+[22:45:20] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[22:45:20] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[22:45:20] Loaded 38 vehicles from: vehicles/sf_law.txt
+[22:45:20] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[22:45:20] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[22:45:21] Loaded 24 vehicles from: vehicles/ls_law.txt
+[22:45:21] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[22:45:21] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[22:45:21] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[22:45:21] Loaded 71 vehicles from: vehicles/whetstone.txt
+[22:45:21] Loaded 168 vehicles from: vehicles/bone.txt
+[22:45:21] Loaded 61 vehicles from: vehicles/flint.txt
+[22:45:21] Loaded 96 vehicles from: vehicles/tierra.txt
+[22:45:21] Loaded 96 vehicles from: vehicles/red_county.txt
+[22:45:21] Total vehicles from files: 1779
+[22:45:21] Reading File: blank
+[22:45:21] Reading File: properties/houses.txt
+[22:45:21] Reading File: properties/businesses.txt
+[22:45:21] Reading File: properties/banks.txt
+[22:45:21] Reading File: properties/police.txt
+[22:45:21] 
+---------------------------------------
+[22:45:21] Running Grand Larceny - by the SA-MP team
+
+[22:45:21] ---------------------------------------
+
+[22:45:21] Number of vehicle models: 173
+[22:46:03] [connection] incoming connection: 192.168.244.64:40437 id: 0
+[22:46:10] [connection] incoming connection: 192.168.244.64:38762 id: 0
+[22:46:11] [join] Paul_Stempson has joined the server (0:192.168.244.64)
+[22:54:37] [part] Paul_Stempson has left the server (0:0)
+[23:08:28] [connection] incoming connection: 192.168.244.64:43970 id: 0
+[23:08:31] [connection] incoming connection: 192.168.244.64:43851 id: 0
+[23:08:34] [connection] incoming connection: 192.168.244.64:46240 id: 0
+[23:08:35] [join] Paul_Stempson has joined the server (0:192.168.244.64)
+[23:10:36] [part] Paul_Stempson has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.8-RC4-1, (C)2005-2017 SA-MP Team
+
+[08:36:59] 
+[08:36:59] Server Plugins
+[08:36:59] --------------
+[08:36:59]  Loaded 0 plugins.
+
+[08:36:59] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[08:36:59] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[08:36:59] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[08:36:59] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[08:36:59] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[08:36:59] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[08:36:59] 
+[08:36:59] Filterscripts
+[08:36:59] ---------------
+[08:36:59]   Loading filterscript 'gl_actions.amx'...
+[08:36:59]   Loading filterscript 'gl_realtime.amx'...
+[08:36:59]   Loading filterscript 'gl_property.amx'...
+[08:36:59] 
+-----------------------------------
+[08:36:59] Grand Larceny Property Filterscript		
+[08:36:59] -----------------------------------
+
+[08:36:59]   Loading filterscript 'gl_mapicon.amx'...
+[08:36:59]   Loading filterscript 'ls_elevator.amx'...
+[08:36:59]   Loading filterscript 'attachments.amx'...
+[08:36:59]   Loading filterscript 'test_cmds.amx'...
+[08:36:59]   Loading filterscript 'skinchanger.amx'...
+[08:36:59] 
+--Admin Player Skin Changer Loaded
+
+[08:36:59]   Loading filterscript 'vspawner.amx'...
+[08:36:59] 
+--Admin Vehicle Spawner Loaded
+
+[08:36:59]   Loading filterscript 'ls_mall.amx'...
+[08:36:59]   Loading filterscript 'ls_beachside.amx'...
+[08:36:59] 
+
+[08:36:59]   |---------------------------------------------------
+[08:36:59]   |--- LS BeachSide Filterscript
+[08:36:59]   |--  Script v1.03
+[08:36:59]   |--  19th April 2015
+[08:36:59]   |---------------------------------------------------
+[08:36:59]   |--  LS BeachSide Building Elevator created
+[08:36:59]   |---------------------------------------------------
+[08:36:59]   Loading filterscript 'npc_record.amx'...
+[08:36:59]   Loading filterscript 'stunt_island.amx'...
+[08:36:59] 
+
+[08:36:59]   |---------------------------------------------------
+[08:36:59]   |--- Stunt Island Filterscript by Matite and Kye
+[08:36:59]   |--  Script v1.02
+[08:36:59]   |--  13th February 2015
+[08:36:59]   |---------------------------------------------------
+[08:36:59]   Loading filterscript 'stunt_island2.amx'...
+[08:36:59] 
+
+[08:36:59]   |---------------------------------------------------
+[08:36:59]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[08:36:59]   |--  Script v1.00
+[08:36:59]   |--  Sept 2017
+[08:36:59]   |---------------------------------------------------
+[08:36:59]   Loading filterscript 'ospawner.amx'...
+[08:36:59] 
+--Admin Vehicle Spawner Loaded
+
+[08:36:59]   Loaded 15 filterscripts.
+
+[08:36:59] Loaded 1 vehicles from: vehicles/trains.txt
+[08:36:59] Loaded 3 vehicles from: vehicles/pilots.txt
+[08:36:59] Loaded 15 vehicles from: vehicles/lv_law.txt
+[08:36:59] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[08:36:59] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[08:36:59] Loaded 38 vehicles from: vehicles/sf_law.txt
+[08:36:59] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[08:36:59] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[08:36:59] Loaded 24 vehicles from: vehicles/ls_law.txt
+[08:36:59] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[08:36:59] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[08:36:59] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[08:36:59] Loaded 71 vehicles from: vehicles/whetstone.txt
+[08:36:59] Loaded 168 vehicles from: vehicles/bone.txt
+[08:36:59] Loaded 61 vehicles from: vehicles/flint.txt
+[08:36:59] Loaded 96 vehicles from: vehicles/tierra.txt
+[08:36:59] Loaded 96 vehicles from: vehicles/red_county.txt
+[08:36:59] Total vehicles from files: 1779
+[08:36:59] Reading File: blank
+[08:36:59] Reading File: properties/houses.txt
+[08:36:59] Reading File: properties/businesses.txt
+[08:36:59] Reading File: properties/banks.txt
+[08:36:59] Reading File: properties/police.txt
+[08:36:59] 
+---------------------------------------
+[08:36:59] Running Grand Larceny - by the SA-MP team
+
+[08:36:59] ---------------------------------------
+
+[08:36:59] Number of vehicle models: 173
+[08:37:25] [connection] incoming connection: 192.168.233.42:39121 id: 0
+[08:37:28] [connection] incoming connection: 192.168.233.42:39811 id: 0
+[08:37:29] [join] Paul_Stempson has joined the server (0:192.168.233.42)
+[08:37:39] [part] Paul_Stempson has left the server (0:2)
+Console input: reloadbans
+Console input: reloadban
+[08:38:16] [connection] incoming connection: 192.168.233.42:41530 id: 0
+[08:38:16] [join] Paul_Stempson has joined the server (0:192.168.233.42)
+[08:38:22] [part] Paul_Stempson has left the server (0:2)
+Console input: reloadbans
+[08:38:38] [connection] incoming connection: 192.168.233.42:43851 id: 0
+[08:38:38] [join] Paul_Stempson has joined the server (0:192.168.233.42)
+[08:39:00] [part] Paul_Stempson has left the server (0:1)
+[08:39:01] [connection] incoming connection: 192.168.233.42:40727 id: 0
+[08:39:01] [join] Paul_Stempson has joined the server (0:192.168.233.42)
+[08:39:11] [part] Paul_Stempson has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.8-RC4-1, (C)2005-2017 SA-MP Team
+
+[08:51:30] 
+[08:51:30] Server Plugins
+[08:51:30] --------------
+[08:51:30]  Loaded 0 plugins.
+
+[08:51:30] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[08:51:30] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[08:51:30] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[08:51:30] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[08:51:30] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[08:51:30] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[08:51:30] 
+[08:51:30] Filterscripts
+[08:51:30] ---------------
+[08:51:30]   Loading filterscript 'gl_actions.amx'...
+[08:51:30]   Loading filterscript 'gl_realtime.amx'...
+[08:51:30]   Loading filterscript 'gl_property.amx'...
+[08:51:30] 
+-----------------------------------
+[08:51:30] Grand Larceny Property Filterscript		
+[08:51:30] -----------------------------------
+
+[08:51:30]   Loading filterscript 'gl_mapicon.amx'...
+[08:51:30]   Loading filterscript 'ls_elevator.amx'...
+[08:51:30]   Loading filterscript 'attachments.amx'...
+[08:51:30]   Loading filterscript 'test_cmds.amx'...
+[08:51:30]   Loading filterscript 'skinchanger.amx'...
+[08:51:30] 
+--Admin Player Skin Changer Loaded
+
+[08:51:30]   Loading filterscript 'vspawner.amx'...
+[08:51:30] 
+--Admin Vehicle Spawner Loaded
+
+[08:51:30]   Loading filterscript 'ls_mall.amx'...
+[08:51:30]   Loading filterscript 'ls_beachside.amx'...
+[08:51:30] 
+
+[08:51:30]   |---------------------------------------------------
+[08:51:30]   |--- LS BeachSide Filterscript
+[08:51:30]   |--  Script v1.03
+[08:51:30]   |--  19th April 2015
+[08:51:30]   |---------------------------------------------------
+[08:51:30]   |--  LS BeachSide Building Elevator created
+[08:51:30]   |---------------------------------------------------
+[08:51:30]   Loading filterscript 'npc_record.amx'...
+[08:51:30]   Loading filterscript 'stunt_island.amx'...
+[08:51:30] 
+
+[08:51:30]   |---------------------------------------------------
+[08:51:30]   |--- Stunt Island Filterscript by Matite and Kye
+[08:51:30]   |--  Script v1.02
+[08:51:30]   |--  13th February 2015
+[08:51:30]   |---------------------------------------------------
+[08:51:30]   Loading filterscript 'stunt_island2.amx'...
+[08:51:30] 
+
+[08:51:30]   |---------------------------------------------------
+[08:51:30]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[08:51:30]   |--  Script v1.00
+[08:51:30]   |--  Sept 2017
+[08:51:30]   |---------------------------------------------------
+[08:51:30]   Loading filterscript 'ospawner.amx'...
+[08:51:30] 
+--Admin Vehicle Spawner Loaded
+
+[08:51:30]   Loaded 15 filterscripts.
+
+[08:51:30] Loaded 1 vehicles from: vehicles/trains.txt
+[08:51:30] Loaded 3 vehicles from: vehicles/pilots.txt
+[08:51:30] Loaded 15 vehicles from: vehicles/lv_law.txt
+[08:51:30] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[08:51:30] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[08:51:30] Loaded 38 vehicles from: vehicles/sf_law.txt
+[08:51:30] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[08:51:30] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[08:51:30] Loaded 24 vehicles from: vehicles/ls_law.txt
+[08:51:30] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[08:51:30] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[08:51:30] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[08:51:30] Loaded 71 vehicles from: vehicles/whetstone.txt
+[08:51:30] Loaded 168 vehicles from: vehicles/bone.txt
+[08:51:30] Loaded 61 vehicles from: vehicles/flint.txt
+[08:51:30] Loaded 96 vehicles from: vehicles/tierra.txt
+[08:51:31] Loaded 96 vehicles from: vehicles/red_county.txt
+[08:51:31] Total vehicles from files: 1779
+[08:51:31] Reading File: blank
+[08:51:31] Reading File: properties/houses.txt
+[08:51:31] Reading File: properties/businesses.txt
+[08:51:31] Reading File: properties/banks.txt
+[08:51:31] Reading File: properties/police.txt
+[08:51:31] 
+---------------------------------------
+[08:51:31] Running Grand Larceny - by the SA-MP team
+
+[08:51:31] ---------------------------------------
+
+[08:51:31] Number of vehicle models: 173
+[08:51:31] [connection] incoming connection: 192.168.233.42:37436 id: 0
+[08:51:33] [connection] incoming connection: 192.168.233.42:44836 id: 0
+[08:51:36] [connection] incoming connection: 192.168.233.42:43890 id: 0
+[08:51:36] [join] Paul_Stempson has joined the server (0:192.168.233.42)
+[08:51:44] [part] Paul_Stempson has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.8-RC4-1, (C)2005-2017 SA-MP Team
+
+[11:17:05] 
+[11:17:05] Server Plugins
+[11:17:05] --------------
+[11:17:05]  Loaded 0 plugins.
+
+[11:17:05] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[11:17:06] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[11:17:06] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[11:17:06] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[11:17:06] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[11:17:06] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[11:17:06] 
+[11:17:06] Filterscripts
+[11:17:06] ---------------
+[11:17:06]   Loading filterscript 'gl_actions.amx'...
+[11:17:06]   Loading filterscript 'gl_realtime.amx'...
+[11:17:06]   Loading filterscript 'gl_property.amx'...
+[11:17:06] 
+-----------------------------------
+[11:17:06] Grand Larceny Property Filterscript		
+[11:17:06] -----------------------------------
+
+[11:17:06]   Loading filterscript 'gl_mapicon.amx'...
+[11:17:06]   Loading filterscript 'ls_elevator.amx'...
+[11:17:06]   Loading filterscript 'attachments.amx'...
+[11:17:07]   Loading filterscript 'test_cmds.amx'...
+[11:17:07]   Loading filterscript 'skinchanger.amx'...
+[11:17:07] 
+--Admin Player Skin Changer Loaded
+
+[11:17:07]   Loading filterscript 'vspawner.amx'...
+[11:17:07] 
+--Admin Vehicle Spawner Loaded
+
+[11:17:07]   Loading filterscript 'ls_mall.amx'...
+[11:17:07]   Loading filterscript 'ls_beachside.amx'...
+[11:17:07] 
+
+[11:17:07]   |---------------------------------------------------
+[11:17:07]   |--- LS BeachSide Filterscript
+[11:17:07]   |--  Script v1.03
+[11:17:07]   |--  19th April 2015
+[11:17:07]   |---------------------------------------------------
+[11:17:07]   |--  LS BeachSide Building Elevator created
+[11:17:07]   |---------------------------------------------------
+[11:17:07]   Loading filterscript 'npc_record.amx'...
+[11:17:07]   Loading filterscript 'stunt_island.amx'...
+[11:17:07] 
+
+[11:17:07]   |---------------------------------------------------
+[11:17:07]   |--- Stunt Island Filterscript by Matite and Kye
+[11:17:07]   |--  Script v1.02
+[11:17:07]   |--  13th February 2015
+[11:17:07]   |---------------------------------------------------
+[11:17:07]   Loading filterscript 'stunt_island2.amx'...
+[11:17:07] 
+
+[11:17:07]   |---------------------------------------------------
+[11:17:07]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[11:17:07]   |--  Script v1.00
+[11:17:07]   |--  Sept 2017
+[11:17:07]   |---------------------------------------------------
+[11:17:07]   Loading filterscript 'ospawner.amx'...
+[11:17:08] 
+--Admin Vehicle Spawner Loaded
+
+[11:17:08]   Loaded 15 filterscripts.
+
+[11:17:08] Loaded 1 vehicles from: vehicles/trains.txt
+[11:17:08] Loaded 3 vehicles from: vehicles/pilots.txt
+[11:17:08] Loaded 15 vehicles from: vehicles/lv_law.txt
+[11:17:08] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[11:17:08] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[11:17:08] Loaded 38 vehicles from: vehicles/sf_law.txt
+[11:17:08] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[11:17:08] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[11:17:08] Loaded 24 vehicles from: vehicles/ls_law.txt
+[11:17:08] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[11:17:08] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[11:17:08] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[11:17:08] Loaded 71 vehicles from: vehicles/whetstone.txt
+[11:17:08] Loaded 168 vehicles from: vehicles/bone.txt
+[11:17:08] Loaded 61 vehicles from: vehicles/flint.txt
+[11:17:08] Loaded 96 vehicles from: vehicles/tierra.txt
+[11:17:08] Loaded 96 vehicles from: vehicles/red_county.txt
+[11:17:08] Total vehicles from files: 1779
+[11:17:09] Reading File: blank
+[11:17:09] Reading File: properties/houses.txt
+[11:17:09] Reading File: properties/businesses.txt
+[11:17:09] Reading File: properties/banks.txt
+[11:17:09] Reading File: properties/police.txt
+[11:17:09] 
+---------------------------------------
+[11:17:09] Running Grand Larceny - by the SA-MP team
+
+[11:17:09] ---------------------------------------
+
+[11:17:09] Number of vehicle models: 173
+[11:17:09] [connection] incoming connection: 192.168.233.42:44404 id: 0
+[11:17:09] [connection] incoming connection: 192.168.233.42:38829 id: 0
+[11:17:12] [connection] incoming connection: 192.168.233.42:39762 id: 0
+[11:17:15] [connection] incoming connection: 192.168.233.42:48595 id: 0
+[11:17:18] [connection] incoming connection: 192.168.233.42:39357 id: 0
+[11:17:21] [connection] incoming connection: 192.168.233.42:41492 id: 0
+[11:17:24] [connection] incoming connection: 192.168.233.42:40981 id: 0
+[11:17:27] [connection] incoming connection: 192.168.233.42:45316 id: 0
+[11:17:30] [connection] incoming connection: 192.168.233.42:44204 id: 0
+[11:17:33] [connection] incoming connection: 192.168.233.42:43910 id: 0
+[11:17:33] [join] Paul_Stempson has joined the server (0:192.168.233.42)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.8-RC4-1, (C)2005-2017 SA-MP Team
+
+[15:27:11] 
+[15:27:11] Server Plugins
+[15:27:11] --------------
+[15:27:11]  Loaded 0 plugins.
+
+[15:27:11] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[15:27:11] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[15:27:11] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[15:27:11] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[15:27:11] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[15:27:11] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[15:27:11] 
+[15:27:11] Filterscripts
+[15:27:11] ---------------
+[15:27:11]   Loading filterscript 'gl_actions.amx'...
+[15:27:11]   Loading filterscript 'gl_realtime.amx'...
+[15:27:11]   Loading filterscript 'gl_property.amx'...
+[15:27:11] 
+-----------------------------------
+[15:27:11] Grand Larceny Property Filterscript		
+[15:27:11] -----------------------------------
+
+[15:27:11]   Loading filterscript 'gl_mapicon.amx'...
+[15:27:11]   Loading filterscript 'ls_elevator.amx'...
+[15:27:11]   Loading filterscript 'attachments.amx'...
+[15:27:11]   Loading filterscript 'test_cmds.amx'...
+[15:27:11]   Loading filterscript 'skinchanger.amx'...
+[15:27:11] 
+--Admin Player Skin Changer Loaded
+
+[15:27:11]   Loading filterscript 'vspawner.amx'...
+[15:27:11] 
+--Admin Vehicle Spawner Loaded
+
+[15:27:11]   Loading filterscript 'ls_mall.amx'...
+[15:27:11]   Loading filterscript 'ls_beachside.amx'...
+[15:27:11] 
+
+[15:27:11]   |---------------------------------------------------
+[15:27:11]   |--- LS BeachSide Filterscript
+[15:27:11]   |--  Script v1.03
+[15:27:11]   |--  19th April 2015
+[15:27:11]   |---------------------------------------------------
+[15:27:11]   |--  LS BeachSide Building Elevator created
+[15:27:11]   |---------------------------------------------------
+[15:27:11]   Loading filterscript 'npc_record.amx'...
+[15:27:12]   Loading filterscript 'stunt_island.amx'...
+[15:27:12] 
+
+[15:27:12]   |---------------------------------------------------
+[15:27:12]   |--- Stunt Island Filterscript by Matite and Kye
+[15:27:12]   |--  Script v1.02
+[15:27:12]   |--  13th February 2015
+[15:27:12]   |---------------------------------------------------
+[15:27:12]   Loading filterscript 'stunt_island2.amx'...
+[15:27:12] 
+
+[15:27:12]   |---------------------------------------------------
+[15:27:12]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[15:27:12]   |--  Script v1.00
+[15:27:12]   |--  Sept 2017
+[15:27:12]   |---------------------------------------------------
+[15:27:12]   Loading filterscript 'ospawner.amx'...
+[15:27:12] 
+--Admin Vehicle Spawner Loaded
+
+[15:27:12]   Loaded 15 filterscripts.
+
+[15:27:12] Loaded 1 vehicles from: vehicles/trains.txt
+[15:27:12] Loaded 3 vehicles from: vehicles/pilots.txt
+[15:27:12] Loaded 15 vehicles from: vehicles/lv_law.txt
+[15:27:12] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[15:27:12] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[15:27:12] Loaded 38 vehicles from: vehicles/sf_law.txt
+[15:27:12] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[15:27:12] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[15:27:12] Loaded 24 vehicles from: vehicles/ls_law.txt
+[15:27:12] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[15:27:12] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[15:27:12] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[15:27:12] Loaded 71 vehicles from: vehicles/whetstone.txt
+[15:27:12] Loaded 168 vehicles from: vehicles/bone.txt
+[15:27:12] Loaded 61 vehicles from: vehicles/flint.txt
+[15:27:12] Loaded 96 vehicles from: vehicles/tierra.txt
+[15:27:12] Loaded 96 vehicles from: vehicles/red_county.txt
+[15:27:12] Total vehicles from files: 1779
+[15:27:12] Reading File: blank
+[15:27:12] Reading File: properties/houses.txt
+[15:27:12] Reading File: properties/businesses.txt
+[15:27:12] Reading File: properties/banks.txt
+[15:27:12] Reading File: properties/police.txt
+[15:27:12] 
+---------------------------------------
+[15:27:12] Running Grand Larceny - by the SA-MP team
+
+[15:27:12] ---------------------------------------
+
+[15:27:12] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.8-RC4-1, (C)2005-2017 SA-MP Team
+
+[22:19:06] 
+[22:19:06] Server Plugins
+[22:19:06] --------------
+[22:19:06]  Loaded 0 plugins.
+
+[22:19:06] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:19:06] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:19:06] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:19:06] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:19:06] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:19:06] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:19:06] 
+[22:19:06] Filterscripts
+[22:19:06] ---------------
+[22:19:06]   Loading filterscript 'gl_actions.amx'...
+[22:19:06]   Loading filterscript 'gl_realtime.amx'...
+[22:19:06]   Loading filterscript 'gl_property.amx'...
+[22:19:06] 
+-----------------------------------
+[22:19:06] Grand Larceny Property Filterscript		
+[22:19:06] -----------------------------------
+
+[22:19:06]   Loading filterscript 'gl_mapicon.amx'...
+[22:19:07]   Loading filterscript 'ls_elevator.amx'...
+[22:19:07]   Loading filterscript 'attachments.amx'...
+[22:19:07]   Loading filterscript 'test_cmds.amx'...
+[22:19:07]   Loading filterscript 'skinchanger.amx'...
+[22:19:07] 
+--Admin Player Skin Changer Loaded
+
+[22:19:07]   Loading filterscript 'vspawner.amx'...
+[22:19:07] 
+--Admin Vehicle Spawner Loaded
+
+[22:19:07]   Loading filterscript 'ls_mall.amx'...
+[22:19:07]   Loading filterscript 'ls_beachside.amx'...
+[22:19:07] 
+
+[22:19:07]   |---------------------------------------------------
+[22:19:07]   |--- LS BeachSide Filterscript
+[22:19:07]   |--  Script v1.03
+[22:19:07]   |--  19th April 2015
+[22:19:07]   |---------------------------------------------------
+[22:19:07]   |--  LS BeachSide Building Elevator created
+[22:19:07]   |---------------------------------------------------
+[22:19:07]   Loading filterscript 'npc_record.amx'...
+[22:19:07]   Loading filterscript 'stunt_island.amx'...
+[22:19:07] 
+
+[22:19:07]   |---------------------------------------------------
+[22:19:07]   |--- Stunt Island Filterscript by Matite and Kye
+[22:19:07]   |--  Script v1.02
+[22:19:07]   |--  13th February 2015
+[22:19:07]   |---------------------------------------------------
+[22:19:07]   Loading filterscript 'stunt_island2.amx'...
+[22:19:07] 
+
+[22:19:07]   |---------------------------------------------------
+[22:19:07]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[22:19:07]   |--  Script v1.00
+[22:19:07]   |--  Sept 2017
+[22:19:07]   |---------------------------------------------------
+[22:19:07]   Loading filterscript 'ospawner.amx'...
+[22:19:07] 
+--Admin Vehicle Spawner Loaded
+
+[22:19:07]   Loaded 15 filterscripts.
+
+[22:19:07] Loaded 1 vehicles from: vehicles/trains.txt
+[22:19:07] Loaded 3 vehicles from: vehicles/pilots.txt
+[22:19:07] Loaded 15 vehicles from: vehicles/lv_law.txt
+[22:19:07] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[22:19:07] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[22:19:07] Loaded 38 vehicles from: vehicles/sf_law.txt
+[22:19:07] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[22:19:07] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[22:19:07] Loaded 24 vehicles from: vehicles/ls_law.txt
+[22:19:07] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[22:19:07] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[22:19:07] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[22:19:07] Loaded 71 vehicles from: vehicles/whetstone.txt
+[22:19:07] Loaded 168 vehicles from: vehicles/bone.txt
+[22:19:07] Loaded 61 vehicles from: vehicles/flint.txt
+[22:19:07] Loaded 96 vehicles from: vehicles/tierra.txt
+[22:19:07] Loaded 96 vehicles from: vehicles/red_county.txt
+[22:19:07] Total vehicles from files: 1779
+[22:19:07] Reading File: blank
+[22:19:07] Reading File: properties/houses.txt
+[22:19:07] Reading File: properties/businesses.txt
+[22:19:08] Reading File: properties/banks.txt
+[22:19:08] Reading File: properties/police.txt
+[22:19:08] 
+---------------------------------------
+[22:19:08] Running Grand Larceny - by the SA-MP team
+
+[22:19:08] ---------------------------------------
+
+[22:19:08] Number of vehicle models: 173
+[22:33:22] [connection] incoming connection: 192.168.43.1:41064 id: 0
+[22:33:25] [connection] incoming connection: 192.168.43.1:41732 id: 0
+[22:33:28] [connection] incoming connection: 192.168.43.1:41573 id: 0
+[22:33:31] [connection] incoming connection: 192.168.43.1:44374 id: 0
+[22:33:34] [connection] incoming connection: 192.168.43.1:43032 id: 0
+[22:33:37] [connection] incoming connection: 192.168.43.1:45247 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.8-RC4-1, (C)2005-2017 SA-MP Team
+
+[22:34:57] 
+[22:34:57] Server Plugins
+[22:34:57] --------------
+[22:34:57]  Loaded 0 plugins.
+
+[22:34:57] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[22:34:57] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[22:34:57] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[22:34:57] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[22:34:57] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[22:34:57] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[22:34:57] 
+[22:34:57] Filterscripts
+[22:34:57] ---------------
+[22:34:57]   Loading filterscript 'gl_actions.amx'...
+[22:34:57]   Loading filterscript 'gl_realtime.amx'...
+[22:34:57]   Loading filterscript 'gl_property.amx'...
+[22:34:57] 
+-----------------------------------
+[22:34:57] Grand Larceny Property Filterscript		
+[22:34:57] -----------------------------------
+
+[22:34:57]   Loading filterscript 'gl_mapicon.amx'...
+[22:34:57]   Loading filterscript 'ls_elevator.amx'...
+[22:34:57]   Loading filterscript 'attachments.amx'...
+[22:34:57]   Loading filterscript 'test_cmds.amx'...
+[22:34:57]   Loading filterscript 'skinchanger.amx'...
+[22:34:57] 
+--Admin Player Skin Changer Loaded
+
+[22:34:57]   Loading filterscript 'vspawner.amx'...
+[22:34:57] 
+--Admin Vehicle Spawner Loaded
+
+[22:34:57]   Loading filterscript 'ls_mall.amx'...
+[22:34:57]   Loading filterscript 'ls_beachside.amx'...
+[22:34:57] 
+
+[22:34:57]   |---------------------------------------------------
+[22:34:57]   |--- LS BeachSide Filterscript
+[22:34:57]   |--  Script v1.03
+[22:34:57]   |--  19th April 2015
+[22:34:57]   |---------------------------------------------------
+[22:34:57]   |--  LS BeachSide Building Elevator created
+[22:34:57]   |---------------------------------------------------
+[22:34:57]   Loading filterscript 'npc_record.amx'...
+[22:34:57]   Loading filterscript 'stunt_island.amx'...
+[22:34:57] 
+
+[22:34:57]   |---------------------------------------------------
+[22:34:57]   |--- Stunt Island Filterscript by Matite and Kye
+[22:34:57]   |--  Script v1.02
+[22:34:57]   |--  13th February 2015
+[22:34:57]   |---------------------------------------------------
+[22:34:57]   Loading filterscript 'stunt_island2.amx'...
+[22:34:57] 
+
+[22:34:57]   |---------------------------------------------------
+[22:34:57]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[22:34:57]   |--  Script v1.00
+[22:34:57]   |--  Sept 2017
+[22:34:57]   |---------------------------------------------------
+[22:34:57]   Loading filterscript 'ospawner.amx'...
+[22:34:57] 
+--Admin Vehicle Spawner Loaded
+
+[22:34:57]   Loaded 15 filterscripts.
+
+[22:34:57] Loaded 1 vehicles from: vehicles/trains.txt
+[22:34:57] Loaded 3 vehicles from: vehicles/pilots.txt
+[22:34:57] Loaded 15 vehicles from: vehicles/lv_law.txt
+[22:34:57] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[22:34:57] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[22:34:57] Loaded 38 vehicles from: vehicles/sf_law.txt
+[22:34:57] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[22:34:57] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[22:34:57] Loaded 24 vehicles from: vehicles/ls_law.txt
+[22:34:57] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[22:34:57] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[22:34:57] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[22:34:57] Loaded 71 vehicles from: vehicles/whetstone.txt
+[22:34:57] Loaded 168 vehicles from: vehicles/bone.txt
+[22:34:57] Loaded 61 vehicles from: vehicles/flint.txt
+[22:34:57] Loaded 96 vehicles from: vehicles/tierra.txt
+[22:34:57] Loaded 96 vehicles from: vehicles/red_county.txt
+[22:34:57] Total vehicles from files: 1779
+[22:34:57] Reading File: blank
+[22:34:57] Reading File: properties/houses.txt
+[22:34:57] Reading File: properties/businesses.txt
+[22:34:57] Reading File: properties/banks.txt
+[22:34:57] Reading File: properties/police.txt
+[22:34:57] 
+---------------------------------------
+[22:34:57] Running Grand Larceny - by the SA-MP team
+
+[22:34:57] ---------------------------------------
+
+[22:34:57] Number of vehicle models: 173
+[22:34:57] [connection] incoming connection: 192.168.43.1:39865 id: 0
+[22:34:57] [join] CEKIKOFGAMERS has joined the server (0:192.168.43.1)
+[23:03:09] [part] CEKIKOFGAMERS has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:52:27] 
+[00:52:27] Server Plugins
+[00:52:27] --------------
+[00:52:27]  Loaded 0 plugins.
+
+[00:52:27] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[00:52:27] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[00:52:27] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[00:52:27] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[00:52:27] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[00:52:27] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[00:52:27] I couldn't load any gamemode scripts. Please verify your server.cfg
+[00:52:27] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:52:47] 
+[00:52:47] Server Plugins
+[00:52:47] --------------
+[00:52:47]  Loaded 0 plugins.
+
+[00:52:47] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[00:52:47] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[00:52:47] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[00:52:47] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[00:52:47] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[00:52:47] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[00:52:47] 
+[00:52:47] Filterscripts
+[00:52:47] ---------------
+[00:52:47]   Loading filterscript 'gl_actions.amx'...
+[00:52:47]   Loading filterscript 'gl_realtime.amx'...
+[00:52:47]   Loading filterscript 'gl_property.amx'...
+[00:52:47] 
+-----------------------------------
+[00:52:47] Grand Larceny Property Filterscript		
+[00:52:47] -----------------------------------
+
+[00:52:47]   Loading filterscript 'gl_mapicon.amx'...
+[00:52:47]   Loading filterscript 'ls_elevator.amx'...
+[00:52:47]   Loading filterscript 'attachments.amx'...
+[00:52:47]   Loading filterscript 'test_cmds.amx'...
+[00:52:47]   Loading filterscript 'skinchanger.amx'...
+[00:52:47] 
+--Admin Player Skin Changer Loaded
+
+[00:52:47]   Loading filterscript 'vspawner.amx'...
+[00:52:47] 
+--Admin Vehicle Spawner Loaded
+
+[00:52:47]   Loading filterscript 'ls_mall.amx'...
+[00:52:47]   Loading filterscript 'ls_beachside.amx'...
+[00:52:47] 
+
+[00:52:47]   |---------------------------------------------------
+[00:52:47]   |--- LS BeachSide Filterscript
+[00:52:47]   |--  Script v1.03
+[00:52:47]   |--  19th April 2015
+[00:52:47]   |---------------------------------------------------
+[00:52:47]   |--  LS BeachSide Building Elevator created
+[00:52:47]   |---------------------------------------------------
+[00:52:47]   Loading filterscript 'npc_record.amx'...
+[00:52:47]   Loading filterscript 'stunt_island.amx'...
+[00:52:48] 
+
+[00:52:48]   |---------------------------------------------------
+[00:52:48]   |--- Stunt Island Filterscript by Matite and Kye
+[00:52:48]   |--  Script v1.02
+[00:52:48]   |--  13th February 2015
+[00:52:48]   |---------------------------------------------------
+[00:52:48]   Loading filterscript 'stunt_island2.amx'...
+[00:52:48] 
+
+[00:52:48]   |---------------------------------------------------
+[00:52:48]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[00:52:48]   |--  Script v1.00
+[00:52:48]   |--  Sept 2017
+[00:52:48]   |---------------------------------------------------
+[00:52:48]   Loading filterscript 'ospawner.amx'...
+[00:52:48] 
+--Admin Vehicle Spawner Loaded
+
+[00:52:48]   Loaded 15 filterscripts.
+
+[00:52:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:52:48] Reading File: blank
+[00:52:48] Reading File: properties/houses.txt
+[00:52:48] Reading File: properties/businesses.txt
+[00:52:48] Reading File: properties/banks.txt
+[00:52:48] Reading File: properties/police.txt
+[00:52:48] 
+----------------------------------
+[00:52:48]   Gamemode segs brutal
+
+[00:52:48] ----------------------------------
+
+[00:52:48] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:53:24] 
+[00:53:24] Server Plugins
+[00:53:24] --------------
+[00:53:24]  Loaded 0 plugins.
+
+[00:53:24] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[00:53:24] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[00:53:24] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[00:53:24] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[00:53:24] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[00:53:24] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[00:53:24] 
+[00:53:24] Filterscripts
+[00:53:24] ---------------
+[00:53:24]   Loading filterscript 'gl_actions.amx'...
+[00:53:24]   Loading filterscript 'gl_realtime.amx'...
+[00:53:24]   Loading filterscript 'gl_property.amx'...
+[00:53:24] 
+-----------------------------------
+[00:53:24] Grand Larceny Property Filterscript		
+[00:53:24] -----------------------------------
+
+[00:53:24]   Loading filterscript 'gl_mapicon.amx'...
+[00:53:24]   Loading filterscript 'ls_elevator.amx'...
+[00:53:24]   Loading filterscript 'attachments.amx'...
+[00:53:24]   Loading filterscript 'test_cmds.amx'...
+[00:53:24]   Loading filterscript 'skinchanger.amx'...
+[00:53:24] 
+--Admin Player Skin Changer Loaded
+
+[00:53:24]   Loading filterscript 'vspawner.amx'...
+[00:53:24] 
+--Admin Vehicle Spawner Loaded
+
+[00:53:24]   Loading filterscript 'ls_mall.amx'...
+[00:53:24]   Loading filterscript 'ls_beachside.amx'...
+[00:53:24] 
+
+[00:53:24]   |---------------------------------------------------
+[00:53:24]   |--- LS BeachSide Filterscript
+[00:53:24]   |--  Script v1.03
+[00:53:24]   |--  19th April 2015
+[00:53:24]   |---------------------------------------------------
+[00:53:24]   |--  LS BeachSide Building Elevator created
+[00:53:24]   |---------------------------------------------------
+[00:53:24]   Loading filterscript 'npc_record.amx'...
+[00:53:24]   Loading filterscript 'stunt_island.amx'...
+[00:53:24] 
+
+[00:53:24]   |---------------------------------------------------
+[00:53:24]   |--- Stunt Island Filterscript by Matite and Kye
+[00:53:24]   |--  Script v1.02
+[00:53:24]   |--  13th February 2015
+[00:53:24]   |---------------------------------------------------
+[00:53:24]   Loading filterscript 'stunt_island2.amx'...
+[00:53:24] 
+
+[00:53:24]   |---------------------------------------------------
+[00:53:24]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[00:53:24]   |--  Script v1.00
+[00:53:24]   |--  Sept 2017
+[00:53:24]   |---------------------------------------------------
+[00:53:24]   Loading filterscript 'ospawner.amx'...
+[00:53:24] 
+--Admin Vehicle Spawner Loaded
+
+[00:53:24]   Loaded 15 filterscripts.
+
+[00:53:24] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:53:24] Reading File: blank
+[00:53:24] Reading File: properties/houses.txt
+[00:53:24] Reading File: properties/businesses.txt
+[00:53:24] Reading File: properties/banks.txt
+[00:53:24] Reading File: properties/police.txt
+[00:53:24] 
+----------------------------------
+[00:53:24]   Gamemode segs brutal
+
+[00:53:24] ----------------------------------
+
+[00:53:24] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.8-RC4-1, (C)2005-2017 SA-MP Team
+
+[00:55:29] 
+[00:55:29] Server Plugins
+[00:55:29] --------------
+[00:55:29]  Loaded 0 plugins.
+
+[00:55:29] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[00:55:29] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[00:55:29] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[00:55:29] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[00:55:29] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[00:55:29] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[00:55:29] 
+[00:55:29] Filterscripts
+[00:55:29] ---------------
+[00:55:29]   Loading filterscript 'gl_actions.amx'...
+[00:55:29]   Loading filterscript 'gl_realtime.amx'...
+[00:55:29]   Loading filterscript 'gl_property.amx'...
+[00:55:29] 
+-----------------------------------
+[00:55:29] Grand Larceny Property Filterscript		
+[00:55:29] -----------------------------------
+
+[00:55:29]   Loading filterscript 'gl_mapicon.amx'...
+[00:55:29]   Loading filterscript 'ls_elevator.amx'...
+[00:55:29]   Loading filterscript 'attachments.amx'...
+[00:55:29]   Loading filterscript 'test_cmds.amx'...
+[00:55:29]   Loading filterscript 'skinchanger.amx'...
+[00:55:29] 
+--Admin Player Skin Changer Loaded
+
+[00:55:29]   Loading filterscript 'vspawner.amx'...
+[00:55:29] 
+--Admin Vehicle Spawner Loaded
+
+[00:55:29]   Loading filterscript 'ls_mall.amx'...
+[00:55:29]   Loading filterscript 'ls_beachside.amx'...
+[00:55:29] 
+
+[00:55:29]   |---------------------------------------------------
+[00:55:29]   |--- LS BeachSide Filterscript
+[00:55:29]   |--  Script v1.03
+[00:55:29]   |--  19th April 2015
+[00:55:29]   |---------------------------------------------------
+[00:55:29]   |--  LS BeachSide Building Elevator created
+[00:55:29]   |---------------------------------------------------
+[00:55:29]   Loading filterscript 'npc_record.amx'...
+[00:55:29]   Loading filterscript 'stunt_island.amx'...
+[00:55:29] 
+
+[00:55:29]   |---------------------------------------------------
+[00:55:29]   |--- Stunt Island Filterscript by Matite and Kye
+[00:55:29]   |--  Script v1.02
+[00:55:29]   |--  13th February 2015
+[00:55:29]   |---------------------------------------------------
+[00:55:29]   Loading filterscript 'stunt_island2.amx'...
+[00:55:29] 
+
+[00:55:29]   |---------------------------------------------------
+[00:55:29]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[00:55:29]   |--  Script v1.00
+[00:55:29]   |--  Sept 2017
+[00:55:29]   |---------------------------------------------------
+[00:55:29]   Loading filterscript 'ospawner.amx'...
+[00:55:29] 
+--Admin Vehicle Spawner Loaded
+
+[00:55:29]   Loaded 15 filterscripts.
+
+[00:55:29] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:55:29] Reading File: blank
+[00:55:30] Reading File: properties/houses.txt
+[00:55:30] Reading File: properties/businesses.txt
+[00:55:30] Reading File: properties/banks.txt
+[00:55:30] Reading File: properties/police.txt
+[00:55:30] 
+----------------------------------
+[00:55:30]   Gamemode segs brutal
+
+[00:55:30] ----------------------------------
+
+[00:55:30] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:55:43] 
+[00:55:43] Server Plugins
+[00:55:43] --------------
+[00:55:43]  Loaded 0 plugins.
+
+[00:55:43] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[00:55:43] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[00:55:43] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[00:55:43] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[00:55:43] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[00:55:43] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[00:55:44] 
+[00:55:44] Filterscripts
+[00:55:44] ---------------
+[00:55:44]   Loading filterscript 'gl_actions.amx'...
+[00:55:44]   Loading filterscript 'gl_realtime.amx'...
+[00:55:44]   Loading filterscript 'gl_property.amx'...
+[00:55:44] 
+-----------------------------------
+[00:55:44] Grand Larceny Property Filterscript		
+[00:55:44] -----------------------------------
+
+[00:55:44]   Loading filterscript 'gl_mapicon.amx'...
+[00:55:44]   Loading filterscript 'ls_elevator.amx'...
+[00:55:44]   Loading filterscript 'attachments.amx'...
+[00:55:44]   Loading filterscript 'test_cmds.amx'...
+[00:55:44]   Loading filterscript 'skinchanger.amx'...
+[00:55:44] 
+--Admin Player Skin Changer Loaded
+
+[00:55:44]   Loading filterscript 'vspawner.amx'...
+[00:55:44] 
+--Admin Vehicle Spawner Loaded
+
+[00:55:44]   Loading filterscript 'ls_mall.amx'...
+[00:55:44]   Loading filterscript 'ls_beachside.amx'...
+[00:55:44] 
+
+[00:55:44]   |---------------------------------------------------
+[00:55:44]   |--- LS BeachSide Filterscript
+[00:55:44]   |--  Script v1.03
+[00:55:44]   |--  19th April 2015
+[00:55:44]   |---------------------------------------------------
+[00:55:44]   |--  LS BeachSide Building Elevator created
+[00:55:44]   |---------------------------------------------------
+[00:55:44]   Loading filterscript 'npc_record.amx'...
+[00:55:44]   Loading filterscript 'stunt_island.amx'...
+[00:55:44] 
+
+[00:55:44]   |---------------------------------------------------
+[00:55:44]   |--- Stunt Island Filterscript by Matite and Kye
+[00:55:44]   |--  Script v1.02
+[00:55:44]   |--  13th February 2015
+[00:55:44]   |---------------------------------------------------
+[00:55:44]   Loading filterscript 'stunt_island2.amx'...
+[00:55:44] 
+
+[00:55:44]   |---------------------------------------------------
+[00:55:44]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[00:55:44]   |--  Script v1.00
+[00:55:44]   |--  Sept 2017
+[00:55:44]   |---------------------------------------------------
+[00:55:44]   Loading filterscript 'ospawner.amx'...
+[00:55:44] 
+--Admin Vehicle Spawner Loaded
+
+[00:55:44]   Loaded 15 filterscripts.
+
+[00:55:44] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:55:44] Reading File: blank
+[00:55:44] Reading File: properties/houses.txt
+[00:55:44] Reading File: properties/businesses.txt
+[00:55:44] Reading File: properties/banks.txt
+[00:55:44] Reading File: properties/police.txt
+[00:55:44] 
+----------------------------------
+[00:55:44]   Gamemode segs brutal
+
+[00:55:44] ----------------------------------
+
+[00:55:44] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[00:56:24] 
+[00:56:24] Server Plugins
+[00:56:24] --------------
+[00:56:24]  Loaded 0 plugins.
+
+[00:56:24] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[00:56:24] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[00:56:24] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[00:56:24] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[00:56:24] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[00:56:24] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[00:56:24] 
+[00:56:24] Filterscripts
+[00:56:24] ---------------
+[00:56:24]   Loading filterscript 'gl_actions.amx'...
+[00:56:24]   Loading filterscript 'gl_realtime.amx'...
+[00:56:24]   Loading filterscript 'gl_property.amx'...
+[00:56:24] 
+-----------------------------------
+[00:56:24] Grand Larceny Property Filterscript		
+[00:56:24] -----------------------------------
+
+[00:56:24]   Loading filterscript 'gl_mapicon.amx'...
+[00:56:24]   Loading filterscript 'ls_elevator.amx'...
+[00:56:24]   Loading filterscript 'attachments.amx'...
+[00:56:24]   Loading filterscript 'test_cmds.amx'...
+[00:56:24]   Loading filterscript 'skinchanger.amx'...
+[00:56:24] 
+--Admin Player Skin Changer Loaded
+
+[00:56:24]   Loading filterscript 'vspawner.amx'...
+[00:56:24] 
+--Admin Vehicle Spawner Loaded
+
+[00:56:24]   Loading filterscript 'ls_mall.amx'...
+[00:56:24]   Loading filterscript 'ls_beachside.amx'...
+[00:56:24] 
+
+[00:56:24]   |---------------------------------------------------
+[00:56:24]   |--- LS BeachSide Filterscript
+[00:56:24]   |--  Script v1.03
+[00:56:24]   |--  19th April 2015
+[00:56:24]   |---------------------------------------------------
+[00:56:24]   |--  LS BeachSide Building Elevator created
+[00:56:24]   |---------------------------------------------------
+[00:56:24]   Loading filterscript 'npc_record.amx'...
+[00:56:24]   Loading filterscript 'stunt_island.amx'...
+[00:56:24] 
+
+[00:56:24]   |---------------------------------------------------
+[00:56:24]   |--- Stunt Island Filterscript by Matite and Kye
+[00:56:24]   |--  Script v1.02
+[00:56:24]   |--  13th February 2015
+[00:56:24]   |---------------------------------------------------
+[00:56:24]   Loading filterscript 'stunt_island2.amx'...
+[00:56:24] 
+
+[00:56:24]   |---------------------------------------------------
+[00:56:24]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[00:56:24]   |--  Script v1.00
+[00:56:24]   |--  Sept 2017
+[00:56:24]   |---------------------------------------------------
+[00:56:24]   Loading filterscript 'ospawner.amx'...
+[00:56:24] 
+--Admin Vehicle Spawner Loaded
+
+[00:56:24]   Loaded 15 filterscripts.
+
+[00:56:24] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:56:24] Reading File: blank
+[00:56:24] Reading File: properties/houses.txt
+[00:56:24] Reading File: properties/businesses.txt
+[00:56:24] Reading File: properties/banks.txt
+[00:56:24] Reading File: properties/police.txt
+[00:56:24] 
+----------------------------------
+[00:56:24]   Gamemode segs brutal
+
+[00:56:24] ----------------------------------
+
+[00:56:24] Number of vehicle models: 4
+[00:57:16] [connection] incoming connection: 127.0.0.1:58565 id: 0
+[00:57:17] [join] Paul_Stempson has joined the server (0:127.0.0.1)
+[01:05:22] RCON (In-Game): Player #0 (Paul_Stempson) has logged in.
+[01:05:25] RCON (In-Game): Player [Paul_Stempson] sent command: gmx
+[01:05:37] Reading File: blank
+[01:05:37] Reading File: properties/houses.txt
+[01:05:37] Reading File: properties/businesses.txt
+[01:05:37] Reading File: properties/banks.txt
+[01:05:37] Reading File: properties/police.txt
+[01:05:37] 
+----------------------------------
+[01:05:37]   Gamemode segs brutal
+
+[01:05:37] ----------------------------------
+
+[01:05:37] Number of vehicle models: 0
+Console input: gmx
+[01:47:44] Reading File: blank
+[01:47:44] Reading File: properties/houses.txt
+[01:47:44] Reading File: properties/businesses.txt
+[01:47:44] Reading File: properties/banks.txt
+[01:47:44] Reading File: properties/police.txt
+[01:47:44] Script[gamemodes/segs.amx]: Run time error 19: "File or function is not found"
+[01:47:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[01:47:59] 
+[01:47:59] Server Plugins
+[01:47:59] --------------
+[01:47:59]  Loading plugin: pawncmd
+[01:47:59] [Pawn.CMD] plugin v3.3.6 loading...
+[01:47:59] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[01:47:59]   Loaded.
+[01:47:59]  Loading plugin: sscanf
+[01:47:59] 
+
+[01:47:59]  ===============================
+
+[01:47:59]       sscanf plugin loaded.     
+
+[01:47:59]          Version:  2.8.3        
+
+[01:47:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:47:59]  ===============================
+
+[01:47:59]   Loaded.
+[01:47:59]  Loaded 2 plugins.
+
+[01:47:59] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[01:47:59] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[01:47:59] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[01:47:59] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[01:48:00] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[01:48:00] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[01:48:00] 
+[01:48:00] Filterscripts
+[01:48:00] ---------------
+[01:48:00]   Loading filterscript 'gl_actions.amx'...
+[01:48:00]   Loading filterscript 'gl_realtime.amx'...
+[01:48:00]   Loading filterscript 'gl_property.amx'...
+[01:48:00] 
+-----------------------------------
+[01:48:00] Grand Larceny Property Filterscript		
+[01:48:00] -----------------------------------
+
+[01:48:00]   Loading filterscript 'gl_mapicon.amx'...
+[01:48:00]   Loading filterscript 'ls_elevator.amx'...
+[01:48:00]   Loading filterscript 'attachments.amx'...
+[01:48:00]   Loading filterscript 'test_cmds.amx'...
+[01:48:00]   Loading filterscript 'skinchanger.amx'...
+[01:48:00] 
+--Admin Player Skin Changer Loaded
+
+[01:48:00]   Loading filterscript 'vspawner.amx'...
+[01:48:00] 
+--Admin Vehicle Spawner Loaded
+
+[01:48:00]   Loading filterscript 'ls_mall.amx'...
+[01:48:00]   Loading filterscript 'ls_beachside.amx'...
+[01:48:00] 
+
+[01:48:00]   |---------------------------------------------------
+[01:48:00]   |--- LS BeachSide Filterscript
+[01:48:00]   |--  Script v1.03
+[01:48:00]   |--  19th April 2015
+[01:48:00]   |---------------------------------------------------
+[01:48:00]   |--  LS BeachSide Building Elevator created
+[01:48:00]   |---------------------------------------------------
+[01:48:00]   Loading filterscript 'npc_record.amx'...
+[01:48:00]   Loading filterscript 'stunt_island.amx'...
+[01:48:00] 
+
+[01:48:00]   |---------------------------------------------------
+[01:48:00]   |--- Stunt Island Filterscript by Matite and Kye
+[01:48:00]   |--  Script v1.02
+[01:48:00]   |--  13th February 2015
+[01:48:00]   |---------------------------------------------------
+[01:48:00]   Loading filterscript 'stunt_island2.amx'...
+[01:48:00] 
+
+[01:48:00]   |---------------------------------------------------
+[01:48:00]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[01:48:00]   |--  Script v1.00
+[01:48:00]   |--  Sept 2017
+[01:48:00]   |---------------------------------------------------
+[01:48:00]   Loading filterscript 'ospawner.amx'...
+[01:48:00] 
+--Admin Vehicle Spawner Loaded
+
+[01:48:00]   Loaded 15 filterscripts.
+
+[01:48:00] [Pawn.CMD] DoAmxLoadImpl: Mismatch between the plugin (3.3.6) and include (0.1.64) versions
+[01:48:00] Reading File: blank
+[01:48:00] Reading File: properties/houses.txt
+[01:48:00] Reading File: properties/businesses.txt
+[01:48:00] Reading File: properties/banks.txt
+[01:48:00] Reading File: properties/police.txt
+[01:48:00] Script[gamemodes/segs.amx]: Run time error 19: "File or function is not found"
+[01:48:00] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[01:48:42] 
+[01:48:42] Server Plugins
+[01:48:42] --------------
+[01:48:42]  Loading plugin: pawncmd
+[01:48:42] [Pawn.CMD] plugin v3.3.6 loading...
+[01:48:42] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[01:48:42]   Loaded.
+[01:48:42]  Loading plugin: sscanf
+[01:48:42] 
+
+[01:48:42]  ===============================
+
+[01:48:42]       sscanf plugin loaded.     
+
+[01:48:42]          Version:  2.8.3        
+
+[01:48:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:48:42]  ===============================
+
+[01:48:42]   Loaded.
+[01:48:42]  Loaded 2 plugins.
+
+[01:48:42] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[01:48:42] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[01:48:42] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[01:48:42] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[01:48:42] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[01:48:42] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[01:48:42] 
+[01:48:42] Filterscripts
+[01:48:42] ---------------
+[01:48:42]   Loading filterscript 'gl_actions.amx'...
+[01:48:42]   Loading filterscript 'gl_realtime.amx'...
+[01:48:42]   Loading filterscript 'gl_property.amx'...
+[01:48:42] 
+-----------------------------------
+[01:48:42] Grand Larceny Property Filterscript		
+[01:48:42] -----------------------------------
+
+[01:48:42]   Loading filterscript 'gl_mapicon.amx'...
+[01:48:42]   Loading filterscript 'ls_elevator.amx'...
+[01:48:42]   Loading filterscript 'attachments.amx'...
+[01:48:42]   Loading filterscript 'test_cmds.amx'...
+[01:48:42]   Loading filterscript 'skinchanger.amx'...
+[01:48:42] 
+--Admin Player Skin Changer Loaded
+
+[01:48:42]   Loading filterscript 'vspawner.amx'...
+[01:48:42] 
+--Admin Vehicle Spawner Loaded
+
+[01:48:42]   Loading filterscript 'ls_mall.amx'...
+[01:48:42]   Loading filterscript 'ls_beachside.amx'...
+[01:48:42] 
+
+[01:48:42]   |---------------------------------------------------
+[01:48:42]   |--- LS BeachSide Filterscript
+[01:48:42]   |--  Script v1.03
+[01:48:42]   |--  19th April 2015
+[01:48:42]   |---------------------------------------------------
+[01:48:42]   |--  LS BeachSide Building Elevator created
+[01:48:42]   |---------------------------------------------------
+[01:48:42]   Loading filterscript 'npc_record.amx'...
+[01:48:42]   Loading filterscript 'stunt_island.amx'...
+[01:48:42] 
+
+[01:48:42]   |---------------------------------------------------
+[01:48:42]   |--- Stunt Island Filterscript by Matite and Kye
+[01:48:42]   |--  Script v1.02
+[01:48:42]   |--  13th February 2015
+[01:48:42]   |---------------------------------------------------
+[01:48:42]   Loading filterscript 'stunt_island2.amx'...
+[01:48:42] 
+
+[01:48:42]   |---------------------------------------------------
+[01:48:42]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[01:48:42]   |--  Script v1.00
+[01:48:42]   |--  Sept 2017
+[01:48:42]   |---------------------------------------------------
+[01:48:42]   Loading filterscript 'ospawner.amx'...
+[01:48:42] 
+--Admin Vehicle Spawner Loaded
+
+[01:48:42]   Loaded 15 filterscripts.
+
+[01:48:42] [Pawn.CMD] DoAmxLoadImpl: Mismatch between the plugin (3.3.6) and include (0.1.64) versions
+[01:48:42] Reading File: blank
+[01:48:42] Reading File: properties/houses.txt
+[01:48:42] Reading File: properties/businesses.txt
+[01:48:42] Reading File: properties/banks.txt
+[01:48:42] Reading File: properties/police.txt
+[01:48:42] Script[gamemodes/segs.amx]: Run time error 19: "File or function is not found"
+[01:48:42] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[01:49:18] 
+[01:49:18] Server Plugins
+[01:49:18] --------------
+[01:49:18]  Loading plugin: crashdetect
+[01:49:18]   CrashDetect v4.18.1 is OK.
+[01:49:18]   Loaded.
+[01:49:18]  Loading plugin: pawncmd
+[01:49:18] [Pawn.CMD] plugin v3.3.6 loading...
+[01:49:18] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.6 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 26 2021 at 11:55:10
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[01:49:18]   Loaded.
+[01:49:18]  Loading plugin: sscanf
+[01:49:18] 
+
+[01:49:18]  ===============================
+
+[01:49:18]       sscanf plugin loaded.     
+
+[01:49:18]          Version:  2.8.3        
+
+[01:49:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:49:18]  ===============================
+
+[01:49:18]   Loaded.
+[01:49:18]  Loaded 3 plugins.
+
+[01:49:18] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[01:49:18] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[01:49:18] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[01:49:18] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[01:49:18] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[01:49:18] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[01:49:18] 
+[01:49:18] Filterscripts
+[01:49:18] ---------------
+[01:49:18]   Loading filterscript 'gl_actions.amx'...
+[01:49:19]   Loading filterscript 'gl_realtime.amx'...
+[01:49:19]   Loading filterscript 'gl_property.amx'...
+[01:49:19] 
+-----------------------------------
+[01:49:19] Grand Larceny Property Filterscript		
+[01:49:19] -----------------------------------
+
+[01:49:19]   Loading filterscript 'gl_mapicon.amx'...
+[01:49:19]   Loading filterscript 'ls_elevator.amx'...
+[01:49:19]   Loading filterscript 'attachments.amx'...
+[01:49:19]   Loading filterscript 'test_cmds.amx'...
+[01:49:19]   Loading filterscript 'skinchanger.amx'...
+[01:49:19] 
+--Admin Player Skin Changer Loaded
+
+[01:49:19]   Loading filterscript 'vspawner.amx'...
+[01:49:19] 
+--Admin Vehicle Spawner Loaded
+
+[01:49:19]   Loading filterscript 'ls_mall.amx'...
+[01:49:19]   Loading filterscript 'ls_beachside.amx'...
+[01:49:19] 
+
+[01:49:19]   |---------------------------------------------------
+[01:49:19]   |--- LS BeachSide Filterscript
+[01:49:19]   |--  Script v1.03
+[01:49:19]   |--  19th April 2015
+[01:49:19]   |---------------------------------------------------
+[01:49:19]   |--  LS BeachSide Building Elevator created
+[01:49:19]   |---------------------------------------------------
+[01:49:19]   Loading filterscript 'npc_record.amx'...
+[01:49:19]   Loading filterscript 'stunt_island.amx'...
+[01:49:19] 
+
+[01:49:19]   |---------------------------------------------------
+[01:49:19]   |--- Stunt Island Filterscript by Matite and Kye
+[01:49:19]   |--  Script v1.02
+[01:49:19]   |--  13th February 2015
+[01:49:19]   |---------------------------------------------------
+[01:49:19]   Loading filterscript 'stunt_island2.amx'...
+[01:49:19] 
+
+[01:49:19]   |---------------------------------------------------
+[01:49:19]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[01:49:19]   |--  Script v1.00
+[01:49:19]   |--  Sept 2017
+[01:49:19]   |---------------------------------------------------
+[01:49:19]   Loading filterscript 'ospawner.amx'...
+[01:49:19] 
+--Admin Vehicle Spawner Loaded
+
+[01:49:19]   Loaded 15 filterscripts.
+
+[01:49:19] [Pawn.CMD] DoAmxLoadImpl: Mismatch between the plugin (3.3.6) and include (0.1.64) versions
+[01:49:19] [debug] Run time error 19: "File or function is not found"
+[01:49:19] [debug]  PC_Init
+[01:49:19] Reading File: blank
+[01:49:19] Reading File: properties/houses.txt
+[01:49:19] Reading File: properties/businesses.txt
+[01:49:19] Reading File: properties/banks.txt
+[01:49:19] Reading File: properties/police.txt
+[01:49:19] [debug] Run time error 19: "File or function is not found"
+[01:49:19] [debug]  PC_Init
+[01:49:19] Script[gamemodes/segs.amx]: Run time error 19: "File or function is not found"
+[01:49:19] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[01:50:53] 
+[01:50:53] Server Plugins
+[01:50:53] --------------
+[01:50:53]  Loading plugin: crashdetect
+[01:50:53]   CrashDetect v4.18.1 is OK.
+[01:50:53]   Loaded.
+[01:50:53]  Loading plugin: pawncmd
+[01:50:53] [Pawn.CMD] plugin v3.3.5 loading...
+[01:50:53] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.5 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 12 2021 at 15:28:55
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[01:50:53]   Loaded.
+[01:50:53]  Loading plugin: sscanf
+[01:50:53] 
+
+[01:50:53]  ===============================
+
+[01:50:53]       sscanf plugin loaded.     
+
+[01:50:53]          Version:  2.8.3        
+
+[01:50:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:50:53]  ===============================
+
+[01:50:53]   Loaded.
+[01:50:53]  Loaded 3 plugins.
+
+[01:50:53] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[01:50:53] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[01:50:53] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[01:50:53] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[01:50:53] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[01:50:53] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[01:50:53] 
+[01:50:53] Filterscripts
+[01:50:53] ---------------
+[01:50:53]   Loading filterscript 'gl_actions.amx'...
+[01:50:53]   Loading filterscript 'gl_realtime.amx'...
+[01:50:53]   Loading filterscript 'gl_property.amx'...
+[01:50:53] 
+-----------------------------------
+[01:50:53] Grand Larceny Property Filterscript		
+[01:50:53] -----------------------------------
+
+[01:50:53]   Loading filterscript 'gl_mapicon.amx'...
+[01:50:53]   Loading filterscript 'ls_elevator.amx'...
+[01:50:53]   Loading filterscript 'attachments.amx'...
+[01:50:53]   Loading filterscript 'test_cmds.amx'...
+[01:50:53]   Loading filterscript 'skinchanger.amx'...
+[01:50:53] 
+--Admin Player Skin Changer Loaded
+
+[01:50:53]   Loading filterscript 'vspawner.amx'...
+[01:50:53] 
+--Admin Vehicle Spawner Loaded
+
+[01:50:53]   Loading filterscript 'ls_mall.amx'...
+[01:50:53]   Loading filterscript 'ls_beachside.amx'...
+[01:50:54] 
+
+[01:50:54]   |---------------------------------------------------
+[01:50:54]   |--- LS BeachSide Filterscript
+[01:50:54]   |--  Script v1.03
+[01:50:54]   |--  19th April 2015
+[01:50:54]   |---------------------------------------------------
+[01:50:54]   |--  LS BeachSide Building Elevator created
+[01:50:54]   |---------------------------------------------------
+[01:50:54]   Loading filterscript 'npc_record.amx'...
+[01:50:54]   Loading filterscript 'stunt_island.amx'...
+[01:50:54] 
+
+[01:50:54]   |---------------------------------------------------
+[01:50:54]   |--- Stunt Island Filterscript by Matite and Kye
+[01:50:54]   |--  Script v1.02
+[01:50:54]   |--  13th February 2015
+[01:50:54]   |---------------------------------------------------
+[01:50:54]   Loading filterscript 'stunt_island2.amx'...
+[01:50:54] 
+
+[01:50:54]   |---------------------------------------------------
+[01:50:54]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[01:50:54]   |--  Script v1.00
+[01:50:54]   |--  Sept 2017
+[01:50:54]   |---------------------------------------------------
+[01:50:54]   Loading filterscript 'ospawner.amx'...
+[01:50:54] 
+--Admin Vehicle Spawner Loaded
+
+[01:50:54]   Loaded 15 filterscripts.
+
+[01:50:54] [Pawn.CMD] DoAmxLoadImpl: Mismatch between the plugin (3.3.5) and include (0.1.64) versions
+[01:50:54] [debug] Run time error 19: "File or function is not found"
+[01:50:54] [debug]  PC_Init
+[01:50:54] Reading File: blank
+[01:50:54] Reading File: properties/houses.txt
+[01:50:54] Reading File: properties/businesses.txt
+[01:50:54] Reading File: properties/banks.txt
+[01:50:54] Reading File: properties/police.txt
+[01:50:54] [debug] Run time error 19: "File or function is not found"
+[01:50:54] [debug]  PC_Init
+[01:50:54] Script[gamemodes/segs.amx]: Run time error 19: "File or function is not found"
+[01:50:54] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[01:57:01] 
+[01:57:01] Server Plugins
+[01:57:01] --------------
+[01:57:01]  Loading plugin: crashdetect
+[01:57:01]   CrashDetect v4.18.1 is OK.
+[01:57:01]   Loaded.
+[01:57:01]  Loading plugin: pawncmd
+[01:57:01] [Pawn.CMD] plugin v3.3.5 loading...
+[01:57:01] [Pawn.CMD] 
+
+    | Pawn.CMD 3.3.5 | 2016 - 2021
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Sep 12 2021 at 15:28:55
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[01:57:01]   Loaded.
+[01:57:01]  Loading plugin: sscanf
+[01:57:01] 
+
+[01:57:01]  ===============================
+
+[01:57:01]       sscanf plugin loaded.     
+
+[01:57:01]          Version:  2.8.3        
+
+[01:57:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:57:01]  ===============================
+
+[01:57:01]   Loaded.
+[01:57:01]  Loaded 3 plugins.
+
+[01:57:01] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[01:57:01] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[01:57:01] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[01:57:01] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[01:57:01] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[01:57:01] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[01:57:01] 
+[01:57:01] Filterscripts
+[01:57:01] ---------------
+[01:57:01]   Loading filterscript 'gl_actions.amx'...
+[01:57:01]   Loading filterscript 'gl_realtime.amx'...
+[01:57:01]   Loading filterscript 'gl_property.amx'...
+[01:57:01] 
+-----------------------------------
+[01:57:01] Grand Larceny Property Filterscript		
+[01:57:01] -----------------------------------
+
+[01:57:01]   Loading filterscript 'gl_mapicon.amx'...
+[01:57:01]   Loading filterscript 'ls_elevator.amx'...
+[01:57:01]   Loading filterscript 'attachments.amx'...
+[01:57:01]   Loading filterscript 'test_cmds.amx'...
+[01:57:01]   Loading filterscript 'skinchanger.amx'...
+[01:57:01] 
+--Admin Player Skin Changer Loaded
+
+[01:57:01]   Loading filterscript 'vspawner.amx'...
+[01:57:01] 
+--Admin Vehicle Spawner Loaded
+
+[01:57:01]   Loading filterscript 'ls_mall.amx'...
+[01:57:01]   Loading filterscript 'ls_beachside.amx'...
+[01:57:01] 
+
+[01:57:01]   |---------------------------------------------------
+[01:57:01]   |--- LS BeachSide Filterscript
+[01:57:01]   |--  Script v1.03
+[01:57:01]   |--  19th April 2015
+[01:57:01]   |---------------------------------------------------
+[01:57:01]   |--  LS BeachSide Building Elevator created
+[01:57:01]   |---------------------------------------------------
+[01:57:01]   Loading filterscript 'npc_record.amx'...
+[01:57:01]   Loading filterscript 'stunt_island.amx'...
+[01:57:01] 
+
+[01:57:01]   |---------------------------------------------------
+[01:57:01]   |--- Stunt Island Filterscript by Matite and Kye
+[01:57:01]   |--  Script v1.02
+[01:57:01]   |--  13th February 2015
+[01:57:01]   |---------------------------------------------------
+[01:57:01]   Loading filterscript 'stunt_island2.amx'...
+[01:57:01] 
+
+[01:57:01]   |---------------------------------------------------
+[01:57:01]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[01:57:01]   |--  Script v1.00
+[01:57:01]   |--  Sept 2017
+[01:57:01]   |---------------------------------------------------
+[01:57:01]   Loading filterscript 'ospawner.amx'...
+[01:57:01] 
+--Admin Vehicle Spawner Loaded
+
+[01:57:01]   Loaded 15 filterscripts.
+
+[01:57:01] Reading File: blank
+[01:57:01] Reading File: properties/houses.txt
+[01:57:01] Reading File: properties/businesses.txt
+[01:57:01] Reading File: properties/banks.txt
+[01:57:01] Reading File: properties/police.txt
+[01:57:01] 
+----------------------------------
+[01:57:01]   Gamemode segs brutal
+
+[01:57:01] ----------------------------------
+
+[01:57:01] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[01:57:35] 
+[01:57:35] Server Plugins
+[01:57:35] --------------
+[01:57:35]  Loading plugin: crashdetect
+[01:57:35]   CrashDetect v4.18.1 is OK.
+[01:57:35]   Loaded.
+[01:57:35]  Loading plugin: sscanf
+[01:57:35] 
+
+[01:57:35]  ===============================
+
+[01:57:35]       sscanf plugin loaded.     
+
+[01:57:35]          Version:  2.8.3        
+
+[01:57:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:57:35]  ===============================
+
+[01:57:35]   Loaded.
+[01:57:35]  Loaded 2 plugins.
+
+[01:57:35] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[01:57:35] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[01:57:35] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[01:57:35] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[01:57:35] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[01:57:35] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[01:57:35] 
+[01:57:35] Filterscripts
+[01:57:35] ---------------
+[01:57:35]   Loading filterscript 'gl_actions.amx'...
+[01:57:35]   Loading filterscript 'gl_realtime.amx'...
+[01:57:35]   Loading filterscript 'gl_property.amx'...
+[01:57:35] 
+-----------------------------------
+[01:57:35] Grand Larceny Property Filterscript		
+[01:57:35] -----------------------------------
+
+[01:57:35]   Loading filterscript 'gl_mapicon.amx'...
+[01:57:35]   Loading filterscript 'ls_elevator.amx'...
+[01:57:35]   Loading filterscript 'attachments.amx'...
+[01:57:35]   Loading filterscript 'test_cmds.amx'...
+[01:57:35]   Loading filterscript 'skinchanger.amx'...
+[01:57:35] 
+--Admin Player Skin Changer Loaded
+
+[01:57:35]   Loading filterscript 'vspawner.amx'...
+[01:57:35] 
+--Admin Vehicle Spawner Loaded
+
+[01:57:35]   Loading filterscript 'ls_mall.amx'...
+[01:57:35]   Loading filterscript 'ls_beachside.amx'...
+[01:57:35] 
+
+[01:57:35]   |---------------------------------------------------
+[01:57:35]   |--- LS BeachSide Filterscript
+[01:57:35]   |--  Script v1.03
+[01:57:35]   |--  19th April 2015
+[01:57:35]   |---------------------------------------------------
+[01:57:35]   |--  LS BeachSide Building Elevator created
+[01:57:35]   |---------------------------------------------------
+[01:57:35]   Loading filterscript 'npc_record.amx'...
+[01:57:36]   Loading filterscript 'stunt_island.amx'...
+[01:57:36] 
+
+[01:57:36]   |---------------------------------------------------
+[01:57:36]   |--- Stunt Island Filterscript by Matite and Kye
+[01:57:36]   |--  Script v1.02
+[01:57:36]   |--  13th February 2015
+[01:57:36]   |---------------------------------------------------
+[01:57:36]   Loading filterscript 'stunt_island2.amx'...
+[01:57:36] 
+
+[01:57:36]   |---------------------------------------------------
+[01:57:36]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[01:57:36]   |--  Script v1.00
+[01:57:36]   |--  Sept 2017
+[01:57:36]   |---------------------------------------------------
+[01:57:36]   Loading filterscript 'ospawner.amx'...
+[01:57:36] 
+--Admin Vehicle Spawner Loaded
+
+[01:57:36]   Loaded 15 filterscripts.
+
+[01:57:36] Reading File: blank
+[01:57:36] Reading File: properties/houses.txt
+[01:57:36] Reading File: properties/businesses.txt
+[01:57:36] Reading File: properties/banks.txt
+[01:57:36] Reading File: properties/police.txt
+[01:57:36] 
+----------------------------------
+[01:57:36]   Gamemode segs brutal
+
+[01:57:36] ----------------------------------
+
+[01:57:36] Number of vehicle models: 4
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[02:06:52] 
+[02:06:52] Server Plugins
+[02:06:52] --------------
+[02:06:52]  Loading plugin: crashdetect
+[02:06:52]   CrashDetect v4.18.1 is OK.
+[02:06:52]   Loaded.
+[02:06:52]  Loading plugin: sscanf
+[02:06:52] 
+
+[02:06:52]  ===============================
+
+[02:06:52]       sscanf plugin loaded.     
+
+[02:06:52]          Version:  2.8.3        
+
+[02:06:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:06:52]  ===============================
+
+[02:06:52]   Loaded.
+[02:06:52]  Loaded 2 plugins.
+
+[02:06:52] [artwork:crc] lvpdpc2.dff CRC = 0xFBD1EA7C
+[02:06:52] [artwork:crc] lvpdpc2.txd CRC = 0xDC92731E
+[02:06:52] [artwork:crc] lapdpd2.dff CRC = 0xA558D422
+[02:06:52] [artwork:crc] lapdpd2.txd CRC = 0xA442E2DA
+[02:06:52] [artwork:crc] wallzzz.dff CRC = 0x4BC6EDFF
+[02:06:52] [artwork:crc] wallzzz.txd CRC = 0x235E3EEB
+[02:06:52] 
+[02:06:52] Filterscripts
+[02:06:52] ---------------
+[02:06:52]   Loading filterscript 'android-check.amx'...
+[02:06:52] Android check has been successfully loaded.
+[02:06:52]   Loading filterscript 'gl_actions.amx'...
+[02:06:52]   Loading filterscript 'gl_realtime.amx'...
+[02:06:52]   Loading filterscript 'gl_property.amx'...
+[02:06:52] 
+-----------------------------------
+[02:06:52] Grand Larceny Property Filterscript		
+[02:06:52] -----------------------------------
+
+[02:06:52]   Loading filterscript 'gl_mapicon.amx'...
+[02:06:52]   Loading filterscript 'ls_elevator.amx'...
+[02:06:52]   Loading filterscript 'attachments.amx'...
+[02:06:52]   Loading filterscript 'test_cmds.amx'...
+[02:06:52]   Loading filterscript 'skinchanger.amx'...
+[02:06:52] 
+--Admin Player Skin Changer Loaded
+
+[02:06:52]   Loading filterscript 'vspawner.amx'...
+[02:06:52] 
+--Admin Vehicle Spawner Loaded
+
+[02:06:52]   Loading filterscript 'ls_mall.amx'...
+[02:06:52]   Loading filterscript 'ls_beachside.amx'...
+[02:06:52] 
+
+[02:06:52]   |---------------------------------------------------
+[02:06:52]   |--- LS BeachSide Filterscript
+[02:06:52]   |--  Script v1.03
+[02:06:52]   |--  19th April 2015
+[02:06:52]   |---------------------------------------------------
+[02:06:52]   |--  LS BeachSide Building Elevator created
+[02:06:52]   |---------------------------------------------------
+[02:06:52]   Loading filterscript 'npc_record.amx'...
+[02:06:52]   Loading filterscript 'stunt_island.amx'...
+[02:06:52] 
+
+[02:06:52]   |---------------------------------------------------
+[02:06:52]   |--- Stunt Island Filterscript by Matite and Kye
+[02:06:52]   |--  Script v1.02
+[02:06:52]   |--  13th February 2015
+[02:06:52]   |---------------------------------------------------
+[02:06:52]   Loading filterscript 'stunt_island2.amx'...
+[02:06:52] 
+
+[02:06:52]   |---------------------------------------------------
+[02:06:52]   |--- Stunt Island Filterscript 2 by Matite and Kye
+[02:06:52]   |--  Script v1.00
+[02:06:52]   |--  Sept 2017
+[02:06:52]   |---------------------------------------------------
+[02:06:52]   Loading filterscript 'ospawner.amx'...
+[02:06:52] 
+--Admin Vehicle Spawner Loaded
+
+[02:06:52]   Loaded 16 filterscripts.
+
+[02:06:52] Reading File: blank
+[02:06:52] Reading File: properties/houses.txt
+[02:07:08] Reading File: properties/businesses.txt
+[02:07:08] Reading File: properties/banks.txt
+[02:07:08] Reading File: properties/police.txt
+[02:07:08] 
+----------------------------------
+[02:07:08]   Gamemode segs brutal
+
+[02:07:08] ----------------------------------
+
+[02:07:08] Number of vehicle models: 4
+[02:08:10] Kicking 127.0.0.1 because they didn't logon to the game.
+[02:08:10] [connection] incoming connection: 127.0.0.1:56987 id: 0
+[02:08:10] Invalid client connecting from 127.0.0.1
+[02:08:37] [connection] incoming connection: 127.0.0.1:64310 id: 0
+[02:08:39] [join] Paul_Stempson has joined the server (0:127.0.0.1)
+Console input: gmx
+[02:11:16] Reading File: blank
+[02:11:16] Reading File: properties/houses.txt
+[02:11:16] Reading File: properties/businesses.txt
+[02:11:16] Reading File: properties/banks.txt
+[02:11:16] Reading File: properties/police.txt
+[02:11:16] 
+----------------------------------
+[02:11:16]   Gamemode segs brutal
+
+[02:11:16] ----------------------------------
+
+[02:11:16] Number of vehicle models: 0
+Console input: gmx
+[02:14:01] Reading File: blank
+[02:14:01] Reading File: properties/houses.txt
+[02:14:01] Reading File: properties/businesses.txt
+[02:14:01] Reading File: properties/banks.txt
+[02:14:01] Reading File: properties/police.txt
+[02:14:01] 
+----------------------------------
+[02:14:01]   Gamemode segs brutal
+
+[02:14:01] ----------------------------------
+
+[02:14:01] Number of vehicle models: 0
+Console input: gmx
+[02:14:16] Reading File: blank
+[02:14:16] Reading File: properties/houses.txt
+[02:14:16] Reading File: properties/businesses.txt
+[02:14:16] Reading File: properties/banks.txt
+[02:14:16] Reading File: properties/police.txt
+[02:14:16] 
+----------------------------------
+[02:14:16]   Gamemode segs brutal
+
+[02:14:16] ----------------------------------
+
+[02:14:16] Number of vehicle models: 0
