@@ -7,7 +7,7 @@
 #include <dini>
 #include <zcmd>
 // Module
-//#include "MODULE\Player\Commands\Commands.inc"
+#include "MODULE\Player\Commands\Commands.inc"
 //#include "MODULE\Player\Commands\Admin.inc"
 //#define IsPlayerAndroid(%0)                 GetPVarInt(%0, "NotAndroid") == 0
 
@@ -24,7 +24,7 @@ new PlayerInfo[MAX_PLAYERS][playerInfo];
 main()
 {
 	print("\n----------------------------------");
-	print("  Gamemode segs brutal Loaded\nWith v0.1 Version");
+	print("  Gamemode segs brutal Loaded\n  With v0.1 Version");
 	print("----------------------------------\n");
 }
 
@@ -125,63 +125,4 @@ strtok(const string[], &index)
 	}
 	result[index - offset] = EOS;
 	return result;
-}
-CMD:stopanim(playerid, params[])
-{
-    ClearAnimations(playerid);
-    //StopLoopingAnim(playerid);
-    SetPlayerSpecialAction(playerid, SPECIAL_ACTION_NONE);
-    TogglePlayerControllable(playerid, 1);
-    return 1;
-}
-CMD:blowjob(playerid, params[])
-{
-    new choice[128];
-    if(sscanf(params, "s[32]", choice))
-    {
-        SendClientMessage(playerid, -1, "Syntax: {FFFFFF}/blowjob [1/10]");
-        return 1;
-    }
-    if(strcmp(choice, "1", true) == 0)
-    {
-        ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Car_End_P", 4.1, 0, 1, 1, 1, 1, 1);
-    }
-    if(strcmp(choice, "2", true) == 0)
-    {
-        ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Car_End_W", 4.1, 0, 1, 1, 1, 1, 1);
-    }
-    if(strcmp(choice, "3", true) == 0)
-    {
-        ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Car_Loop_P", 4.1, 0, 1, 1, 1, 1, 1);
-    }
-    if(strcmp(choice, "4", true) == 0)
-    {
-        ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Car_Start_W", 4.1, 0, 1, 1, 1, 1, 1);
-    }
-    if(strcmp(choice, "5", true) == 0)
-    {
-        ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Couch_End_P", 4.1, 0, 1, 1, 1, 1, 1);
-    }
-    if(strcmp(choice, "6", true) == 0)
-    {
-        ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Couch_End_W", 4.1, 0, 1, 1, 1, 1, 1);
-    }
-    if(strcmp(choice, "7", true) == 0)
-    {
-        ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Couch_Loop_P", 4.1, 0, 1, 1, 1, 1, 1);
-    }
-    if(strcmp(choice, "8", true) == 0)
-    {
-        ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Couch_Loop_W", 4.1, 0, 1, 1, 1, 1, 1);
-    }
-    if(strcmp(choice, "9", true) == 0)
-    {
-        ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Stand_Start_P", 4.1, 0, 1, 1, 1, 1, 1);
-    }
-    if(strcmp(choice, "10", true) == 0)
-    {
-        ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Stand_Start_W", 4.1, 0, 1, 1, 1, 1, 1);
-    }
-	TogglePlayerControllable(playerid, false);
-    return 1;
 }
