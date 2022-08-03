@@ -10,6 +10,7 @@
 #include "MODULE\Player\Commands\Commands.inc"
 //#include "MODULE\Player\Commands\Admin.inc"
 //#define IsPlayerAndroid(%0)                 GetPVarInt(%0, "NotAndroid") == 0
+#define void public
 
 #pragma tabsize 0
 
@@ -67,6 +68,7 @@ public OnPlayerSpawn(playerid)
 
 public OnPlayerDeath(playerid, killerid, reason)
 {
+	SetPlayerPos(playerid, 1776.7902,-1935.1401,13.4498);
    	return 1;
 }
 
@@ -94,8 +96,8 @@ public OnGameModeInit()
 	ShowNameTags(1);
 	//AllowAdminTeleport(1);
 
-	AddPlayerClass(265,1958.3783,1343.1572,15.3746,270.1425,0,0,0,0,-1,-1);
-	//AddPlayerClass(265,1776.7902,-1935.1401,13.4498,340.8710,0,0,0,0,0,0);
+	//AddPlayerClass(265,1958.3783,1343.1572,15.3746,270.1425,0,0,0,0,-1,-1);
+	AddPlayerClass(265,1776.7902,-1935.1401,13.4498,340.8710,0,0,0,0,0,0);
 	return 1;
 }
 public OnPlayerClickPlayer(playerid, clickedplayerid, source)
