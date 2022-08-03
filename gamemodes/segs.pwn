@@ -24,13 +24,13 @@ new PlayerInfo[MAX_PLAYERS][playerInfo];
 main()
 {
 	print("\n----------------------------------");
-	print("  Gamemode segs brutal Loaded\n  With v0.1 Version");
+	print("  Gamemode segs brutal Loaded\n  With v0.1.5 Version");
 	print("----------------------------------\n");
 }
 
 public OnPlayerConnect(playerid)
 {
-	GameTextForPlayer(playerid,"~w~OPEN-MP: ~r~Segs Brutal",5000,5);
+	//GameTextForPlayer(playerid,"~w~OPEN-MP: ~r~Segs Brutal",5000,5);
 	return 1;
 }
 
@@ -89,7 +89,7 @@ public OnPlayerRequestClass(playerid, classid)
 
 public OnGameModeInit()
 {
-	SetGameModeText("Segs v0.1");
+	SetGameModeText("Segs v0.1.5");
 	ShowPlayerMarkers(1);
 	ShowNameTags(1);
 	//AllowAdminTeleport(1);
