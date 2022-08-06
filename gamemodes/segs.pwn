@@ -1,17 +1,19 @@
 #include <a_samp>
 #include <core>
 #include <float>
-//#include <Pawn.CMD>
 #include <sscanf2>
-//#include <YSI_Storage\y_ini>
 #include <dini>
 #include <zcmd>
-// Module
-#include "MODULE\Player\Commands\Commands.inc"
-//#include "MODULE\Player\Commands\Admin.inc"
-//#define IsPlayerAndroid(%0)                 GetPVarInt(%0, "NotAndroid") == 0
-#define void public
 
+// --------
+// Modules
+// --------
+#include "MODULE\Player\Commands\Commands.inc"
+
+// --------
+// Definition
+// --------
+#define void public
 #pragma tabsize 0
 
 enum playerInfo
@@ -31,7 +33,7 @@ main()
 
 public OnPlayerConnect(playerid)
 {
-	//GameTextForPlayer(playerid,"~w~OPEN-MP: ~r~Segs Brutal",5000,5);
+	GameTextForPlayer(playerid,"~w~SA:MP ~r~Segs Brutal",5000,5);
 	return 1;
 }
 
@@ -45,13 +47,6 @@ public OnPlayerCommandText(playerid, cmdtext[])
 	if(strcmp(cmd, "/yadayada", true) == 0) {
     	return 1;
 	}
-	/*if(strcmp(cmd, "/stopanim", true) == 0)
-	{
-		ClearAnimations(playerid);
-		//StopLoopingAnim(playerid);
-		SetPlayerSpecialAction(playerid, SPECIAL_ACTION_NONE);
-		TogglePlayerControllable(playerid, 1);
-	}*/
 
 	return 0;
 }
@@ -61,8 +56,6 @@ public OnPlayerSpawn(playerid)
 	SetPlayerInterior(playerid,0);
 	TogglePlayerClock(playerid,0);
 	ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Couch_Loop_W", 4.1, 0, 1, 1, 1, 1, 1);
-	/*if (IsPlayerAndroid(playerid))
- 		return SendClientMessage(playerid, -1, "You're connected from android");*/
 	return 1;
 }
 
@@ -75,7 +68,6 @@ public OnPlayerDeath(playerid, killerid, reason)
 SetupPlayerForClassSelection(playerid)
 {
  	SetPlayerInterior(playerid,14);
-	//SetPlayerPos(playerid,258.4893,-41.4008,1002.0234);
 	SetPlayerPos(playerid, 1776.7902,-1935.1401,13.4498);
 	ApplyAnimation(playerid, "BLOWJOBZ", "BJ_Couch_Loop_W", 4.1, 0, 1, 1, 1, 1, 1);
 	SetPlayerFacingAngle(playerid, 270.0);
@@ -94,18 +86,15 @@ public OnGameModeInit()
 	SetGameModeText("Segs v0.1.5");
 	ShowPlayerMarkers(1);
 	ShowNameTags(1);
-	//AllowAdminTeleport(1);
-
-	//AddPlayerClass(265,1958.3783,1343.1572,15.3746,270.1425,0,0,0,0,-1,-1);
 	AddPlayerClass(265,1776.7902,-1935.1401,13.4498,340.8710,0,0,0,0,0,0);
 	return 1;
 }
 public OnPlayerClickPlayer(playerid, clickedplayerid, source)
 {
 	if(!IsPlayerAdmin(playerid))
-		return 1;
-	if(IsPlayerAdmin(playerid))
-		return SendRconCommand("hostname Admin has depressed");
+		return 0;
+
+	SendRconCommand("hostname Admin has depressed");
 	
 	return 1;
 }

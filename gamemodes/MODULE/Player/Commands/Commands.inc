@@ -1,8 +1,6 @@
-//#include <YSI_Server\y_colors>
 CMD:stopanim(playerid, params[])
 {
     ClearAnimations(playerid);
-    //StopLoopingAnim(playerid);
     SetPlayerSpecialAction(playerid, SPECIAL_ACTION_NONE);
     TogglePlayerControllable(playerid, 1);
     return 1;
